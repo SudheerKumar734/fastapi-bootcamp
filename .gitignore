@@ -4,6 +4,4 @@ venv/
 
 *.pyc
 
-artifacts/
-
 .env
